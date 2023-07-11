@@ -1,0 +1,10 @@
+#languages used are HTML, CSS, JS, EJS, NODE
+I have provided 3 code files of html,css and ejs where you set up them in your text editor and open your terminal to run the code
+before running the javascript code open your terminal, set the path to the profile directory and run the following commands->
+commands:
+npm init
+npm start
+npm i express, body-parser
+npm i ejs
+npm i nodemon #this nodemon helps to keep track and updates the server automatically when any changes are made in js file
+noodemon app.js #runs the js file in the localhost , open your browser and got to localhost:3000/
